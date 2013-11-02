@@ -6,3 +6,4 @@ Apply A*-search, depth-first-search or breadth-first-search to solve some instan
 http://en.wikipedia.org/wiki/Rush_Hour_(board_game)
 
 http://www.puzzles.com/products/rushhour/rhfrommarkriedel/jam.html
+
